@@ -1,9 +1,17 @@
 @import "tailwindcss";
 
+/* Base styles */
 :root {
+  --clr-tmkt: #ff6b6b;
+  --clr-tmkt-hover: #ff4c4c;
+  --clr-gamer: #6bff6b;
+  --clr-gamer-hover: #4cff4c;
+  --clr-lamp: red;
+  --clr-lamp-hover: lightcoral;
   --background: #ffffff;
   --foreground: #171717;
 }
+
 
 @theme inline {
   --color-background: var(--background);
