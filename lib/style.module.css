@@ -12,6 +12,10 @@
   z-index: 100;
 }
 
+.dynamicHeader {
+  transition: background-color 0.3s ease-in-out;
+}
+ 
 /* Logo styling */
 .logo{ 
   flex-shrink: 0;

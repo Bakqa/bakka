@@ -2,11 +2,11 @@
 
 /* Base styles */
 :root {
-  --clr-tmkt: #ff6b6b;
+  --clr-tmkt: #e07d43;
   --clr-tmkt-hover: #ff4c4c;
-  --clr-gamer: #6bff6b;
+  --clr-gamer: #555e84;
   --clr-gamer-hover: #4cff4c;
-  --clr-lamp: red;
+  --clr-lamp: #f93537;
   --clr-lamp-hover: lightcoral;
   --background: #ffffff;
   --foreground: #171717;

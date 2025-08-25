@@ -7,7 +7,7 @@ export function GamingHeader() {
   return (
     <div>
       {/* <Navigation /> */}
-      <div className="bg-gradient-to-r from-purple-600 via-blue-600 to-indigo-600 text-white py-12">
+      <div className="bg-gradient-to-r from-[#555e84] via-[#5d668b] to-[#7985b8] text-white p-8 rounded-lg shadow-lg">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-bold mb-4">Gaming Hub</h1>
@@ -29,7 +29,7 @@ export function GamingHeader() {
           </div>
         </div>
       </div>
-      <div className="bg-purple-500 py-3">
+      <div className="bg-[#555e84] py-3">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-center space-x-4 text-white text-sm">
             <Badge variant="secondary" className="bg-yellow-400 text-yellow-900">

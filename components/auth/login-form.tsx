@@ -172,7 +172,7 @@ export function LoginForm({ onClose, onSwitchToSignup }: LoginFormProps) {
         </div>
 
         <div className="text-center text-sm">
-          <span className="text-gray-600">Don't have an account? </span>
+          <span className="text-gray-600"> Don't have an account? </span>
           <Button variant="link" className="p-0 h-auto font-semibold" onClick={onSwitchToSignup}>
             Sign up
           </Button>

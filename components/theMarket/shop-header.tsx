@@ -7,7 +7,7 @@ export function ShopHeader() {
   return (
     <div>
       {/* <Navigation /> */}
-      <div className="bg-blue-600 text-white py-12">
+      <div className="bg-gradient-to-r from-[#bd7850] via-[#f0a55c] to-[#ffcc80] text-white p-8 rounded-lg shadow-lg">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-bold mb-4">Premium Shopping Experience</h1>
@@ -31,7 +31,7 @@ export function ShopHeader() {
           </div>
         </div>
       </div>
-      <div className="bg-blue-500 py-3">
+      <div className="bg-[#e07d43] py-3">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-center space-x-4 text-white text-sm">
             <Badge variant="secondary" className="bg-yellow-400 text-yellow-900">
